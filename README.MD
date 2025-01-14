@@ -39,7 +39,7 @@ Clique no link https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab65
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGUILHERME DIAS<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Guilherme-hdias">        
