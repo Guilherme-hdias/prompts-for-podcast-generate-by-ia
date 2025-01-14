@@ -39,21 +39,11 @@ Clique no link https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab65
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspGUILHERME DIAS<br>
+    <p>&nbsp&nbsp&nbspGUILHERME H. DIAS<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Guilherme-hdias">        
         GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
     </a>
     &nbsp;|&nbsp;</p>
 </p>
