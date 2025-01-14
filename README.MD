@@ -32,13 +32,7 @@ Clique no link https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab65
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+<p>   
     <p>&nbsp&nbsp&nbspGUILHERME H. DIAS<br>
     &nbsp&nbsp&nbsp
     <a 
