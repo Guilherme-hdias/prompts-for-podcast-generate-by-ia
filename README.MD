@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o BootCamp CAIXA - IA Generativa com Microsoft Copilot
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto criado com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 💻 Tecnologias utilizadas no projeto
 
