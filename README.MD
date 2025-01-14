@@ -19,7 +19,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Copilot para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Material
+## 📚 Conteúdo Produzido
 
 - [https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab6503dd8078872bcdef7965036c]
 
