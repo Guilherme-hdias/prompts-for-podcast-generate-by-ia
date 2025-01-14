@@ -45,11 +45,11 @@ Clique no link https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab65
         href="https://github.com/Guilherme-hdias">        
         GitHub
     </a>
-    &nbsp;|&nbsp;</p>
+    &nbsp;
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨ por [Guilherme H. Dias](https://github.com/Guilherme-hdias)
