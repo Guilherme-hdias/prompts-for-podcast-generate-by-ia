@@ -21,7 +21,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 📚 Conteúdo Produzido
 
-- [https://well-judge-aa7.notion.site/PAS-Podcast-AI-Studio-1521ab6503dd8078872bcdef7965036c]
+- [PODCAST: FICA NO AZUL - Dicas rápidas para organizar seu bolso sem dor de cabeça]
+- [EPISÓDIO 01]
 
 
 ## 🛠️ Instruções de execução
